@@ -6,8 +6,8 @@
 
 - 预览地址: http://api.13wl.cn/image
 
-## 百度图床接口
-
+## 图床接口
+###  百度图床接口
 **请求地址** `http://api.13wl.cn/api/img.php`
 
 方式 `POST` 类型 `multipart/form-data`
