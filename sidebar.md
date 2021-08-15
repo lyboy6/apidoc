@@ -6,4 +6,4 @@
 
 - [**壁纸**](/wall/index.md)
 
-* [**手机**](/mobile/index.md)
+- [**手机**](/mobile/index.md)

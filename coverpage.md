@@ -5,5 +5,5 @@
 - 全部接口已升级到最新
 - 更完善的文档
 
-[GitHub](https://github.com/Binaryify/NeteaseCloudMusicApi)
-[Get Started](#neteasecloudmusicapi)
+[GitHub](https://github.com/lyboy6/)
+[Get Started](#pithyapi-简单-便捷)
