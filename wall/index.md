@@ -1,6 +1,6 @@
 # pithyAPI 简单 便捷
 
-## 必应每日地址
+## 必应每日壁纸
 
 **请求地址** `http://api.13wl.cn/api/wallpaper.php`
 
