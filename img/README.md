@@ -1,14 +1,10 @@
 # pithyAPI 简单 便捷
 
-目前完成的
+图床接口
 
-百度图床接口
+## 图床接口
 
-预览地址: http://api.13wl.cn/image
-
-## 百度图床接口
-
-**请求地址** `http://api.13wl.cn/api/img.php`
+**请求地址** `http://api.13wl.cn/api/img`
 
 方式 `POST` 类型 `multipart/form-data`
 
@@ -24,7 +20,7 @@
 | :----: | :------: | :----------: |
 | `code` | `Number` |    状态码    |
 | `msg`  | `String` |   提示信息   |
-| `data` | `Object` | 图片地址信息 |
+| `url`  | `String` | 图片地址信息 |
 
 ```js
 {

@@ -2,7 +2,7 @@
 
 ## 必应每日壁纸
 
-**请求地址** `http://api.13wl.cn/api/wallpaper.php`
+**请求地址** `http://api.13wl.cn/api/wallpaper`
 
 方式 `GET`
 
@@ -12,7 +12,6 @@
 | :----: | :------: | :--------------: |
 | `code` | `Number` |      状态码      |
 | `msg`  | `String` |     提示信息     |
-| `data` | `Object` |    图片的信息    |
 | `url`  | `String` | 必应每日图片地址 |
 
 ```js

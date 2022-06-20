@@ -2,7 +2,7 @@
 
 ## 手机归属地
 
-**请求地址** `http://api.13wl.cn/api/mobile.php`
+**请求地址** `http://api.13wl.cn/api/mobile`
 
 方式 `GET` 类型 `Query String Parameters`
 

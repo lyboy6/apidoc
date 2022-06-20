@@ -2,12 +2,12 @@
 
 目前完成的
 
-- [**图床接口**](/img/index.md)
+- [**QQ 信息**](/qq/)
 
-预览地址: http://api.13wl.cn/image
+- [**抖音解析**](/dy/)
 
-- [**QQ 信息**](/qq/index.md)
+- [**图床接口**](/img/)
 
-- [**必应壁纸**](/wall/index.md)
+- [**必应壁纸**](/wall/)
 
-- [**手机归属地**](/mobile/index.md)
+- [**手机归属地**](/mobile/)
